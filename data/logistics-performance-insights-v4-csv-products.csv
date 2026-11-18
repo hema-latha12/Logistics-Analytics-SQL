@@ -1,0 +1,201 @@
+id,product_name,category,price
+1,Mini Mug,electronics,390.75
+2,Classic Tripod,electronics,608.59
+3,Deluxe Pan,furniture,943.44
+4,Classic Bottle,electronics,879.43
+5,Heavy Duty Bottle,furniture,24.40
+6,Eco Mug,electronics,160.01
+7,Standard Tripod,furniture,159.35
+8,,clothing,
+9,Deluxe Bottle,furniture,396.37
+10,,clothing,
+11,Folding Monitor,electronics,105.58
+12,Smart Monitor,electronics,687.93
+13,Slim Lantern,furniture,670.17
+14,,clothing,
+15,Premium Tripod,furniture,143.16
+16,Slim Speaker,electronics,187.68
+17,,clothing,
+18,Insulated Toolkit,electronics,697.50
+19,Essential Umbrella,electronics,182.42
+20,Deluxe Blender,electronics,713.82
+21,,clothing,
+22,Eco Camera,electronics,209.75
+23,Premium Headphones,furniture,412.89
+24,Insulated Tent,furniture,515.22
+25,Eco Chair,furniture,396.79
+26,Portable Tripod,electronics,731.78
+27,Travel Notebook,electronics,670.21
+28,,clothing,
+29,,clothing,
+30,,clothing,
+31,Portable Desk Lamp,furniture,388.38
+32,,clothing,
+33,Ultra Headphones,furniture,64.89
+34,,clothing,
+35,Eco Watch,electronics,416.74
+36,,clothing,
+37,Classic Planter,furniture,192.38
+38,Mini Monitor,electronics,72.14
+39,,clothing,
+40,Folding Tripod,electronics,16.77
+41,,clothing,
+42,Smart Desk Lamp,furniture,277.76
+43,Travel Chair,furniture,405.28
+44,Eco Lantern,furniture,10.41
+45,,clothing,
+46,Heavy Duty Keyboard,furniture,879.00
+47,Vintage Camera,electronics,469.78
+48,Essential Planter,furniture,552.49
+49,Standard Chair,electronics,72.28
+50,Vintage Router,furniture,266.19
+51,Portable Mug,electronics,870.61
+52,Mini Planter,electronics,14.65
+53,,clothing,
+54,Modern Keyboard,electronics,612.63
+55,Eco Umbrella,furniture,149.55
+56,Standard Keyboard,electronics,23.74
+57,Travel Planter,furniture,250.65
+58,Portable Router,electronics,192.96
+59,Portable Monitor,electronics,485.35
+60,,clothing,
+61,Deluxe Lantern,electronics,641.29
+62,Premium Router,furniture,40.18
+63,,clothing,
+64,,clothing,
+65,,clothing,
+66,Slim Kettle,electronics,75.25
+67,Vintage Charger,furniture,187.88
+68,,clothing,
+69,,clothing,
+70,Folding Planter,electronics,295.61
+71,Wireless Desk Lamp,electronics,875.68
+72,Eco Mug,electronics,135.95
+73,Essential Watch,furniture,283.89
+74,Folding Monitor,electronics,366.19
+75,Deluxe Toolkit,furniture,698.65
+76,Insulated Kettle,electronics,100.54
+77,,clothing,
+78,Vintage Chair,electronics,14.45
+79,Folding Monitor,furniture,12.21
+80,,clothing,
+81,Folding Lantern,electronics,210.60
+82,,clothing,
+83,,clothing,
+84,,clothing,
+85,,clothing,
+86,Pro Notebook,electronics,328.74
+87,Standard Notebook,furniture,414.05
+88,,clothing,
+89,Premium Backpack,electronics,10.02
+90,,clothing,
+91,Compact Toolkit,furniture,246.40
+92,Deluxe Charger,electronics,553.97
+93,Ultra Backpack,electronics,100.09
+94,Portable Desk Lamp,furniture,659.01
+95,Smart Lantern,electronics,11.11
+96,,clothing,
+97,,clothing,
+98,Travel Jacket,electronics,470.59
+99,Insulated Blender,furniture,628.93
+100,Slim Charger,electronics,84.90
+101,Portable Headphones,furniture,169.49
+102,Deluxe Toolkit,furniture,247.83
+103,Vintage Headphones,furniture,10.03
+104,,clothing,
+105,,clothing,
+106,Slim Desk Lamp,electronics,104.74
+107,Smart Pan,electronics,470.31
+108,,clothing,
+109,Vintage Watch,electronics,401.88
+110,,clothing,
+111,,clothing,
+112,Eco Speaker,furniture,214.09
+113,,clothing,
+114,Insulated Umbrella,electronics,733.79
+115,,clothing,
+116,,clothing,
+117,Ultra Toolkit,electronics,457.77
+118,,clothing,
+119,Eco Chair,furniture,231.09
+120,Wireless Tent,furniture,28.84
+121,,clothing,
+122,Compact Charger,electronics,236.81
+123,Modern Speaker,electronics,17.92
+124,Mini Headphones,furniture,172.97
+125,,clothing,
+126,Premium Desk Lamp,electronics,13.70
+127,Wireless Watch,furniture,522.13
+128,Eco Toolkit,electronics,11.76
+129,Classic Notebook,electronics,90.58
+130,,clothing,
+131,Vintage Kettle,furniture,284.62
+132,Wireless Desk Lamp,furniture,773.72
+133,Pro Umbrella,furniture,54.08
+134,Deluxe Tripod,furniture,790.31
+135,,clothing,
+136,,clothing,
+137,,clothing,
+138,,clothing,
+139,Slim Speaker,furniture,651.78
+140,Vintage Blender,electronics,125.95
+141,,clothing,
+142,Pro Router,electronics,319.06
+143,Ultra Camera,electronics,107.76
+144,,clothing,
+145,Standard Tripod,furniture,202.14
+146,,clothing,
+147,Slim Keyboard,furniture,91.99
+148,,clothing,
+149,Mini Router,furniture,976.32
+150,,clothing,
+151,Smart Charger,electronics,391.13
+152,,clothing,
+153,Compact Camera,electronics,183.16
+154,Slim Tripod,furniture,675.55
+155,,clothing,
+156,,clothing,
+157,Deluxe Backpack,furniture,287.21
+158,Mini Keyboard,electronics,67.13
+159,Compact Camera,furniture,280.48
+160,Mini Watch,furniture,12.39
+161,,clothing,
+162,Travel Lantern,furniture,409.18
+163,,clothing,
+164,Essential Tent,electronics,62.57
+165,,clothing,
+166,Standard Router,electronics,747.84
+167,,clothing,
+168,,clothing,
+169,Eco Planter,electronics,926.68
+170,Compact Monitor,electronics,70.41
+171,,clothing,
+172,,clothing,
+173,Classic Umbrella,furniture,569.64
+174,Smart Mug,furniture,317.23
+175,Folding Pan,electronics,759.86
+176,Slim Umbrella,furniture,18.34
+177,Standard Camera,electronics,186.50
+178,Travel Desk Lamp,electronics,722.96
+179,Vintage Notebook,electronics,143.16
+180,Classic Keyboard,furniture,322.29
+181,Slim Chair,electronics,11.27
+182,,clothing,
+183,,clothing,
+184,Classic Kettle,furniture,665.38
+185,Heavy Duty Desk Lamp,electronics,447.62
+186,Heavy Duty Desk Lamp,furniture,372.57
+187,,clothing,
+188,,clothing,
+189,Portable Monitor,electronics,304.83
+190,Modern Watch,furniture,303.62
+191,Classic Keyboard,electronics,905.47
+192,Essential Toolkit,furniture,936.15
+193,,clothing,
+194,Classic Backpack,furniture,181.73
+195,,clothing,
+196,Modern Umbrella,furniture,220.78
+197,,clothing,
+198,Vintage Tent,furniture,340.78
+199,Classic Tripod,electronics,500.23
+200,Wireless Desk Lamp,furniture,631.77
